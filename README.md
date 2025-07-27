@@ -33,9 +33,10 @@ Software engineer with 8 years’ experience shipping mission‑critical servic
 
 | 🌟 | Project                                             | Pitch                                                                  |
 | -- | --------------------------------------------------- | ---------------------------------------------------------------------- |
-| 🚀 | [`go‑skele`](https://github.com/malamsyah/go-skele) | Production‑ready Go service skeleton—gRPC, REST, OTEL, GitHub Actions. |
+| 🚀 | [`go‑skele`](https://github.com/malamsyah/go-skele) | Production‑ready Go service skeleton—gRPC, REST, OTEL, GitHub Actions. |
+| 🌐 | [`go‑request`](https://github.com/malamsyah/go-request) | Distributed rate‑limited HTTP client with intelligent retries & idempotency. |
 | 🔬 | [`sit`](https://github.com/malamsyah/sit)           | WireMock‑powered service‑isolation testing for Go micro‑services.      |
-| 🧬 | [`go‑gen`](https://github.com/malamsyah/go-gen)     | CLI code‑gen that scaffolds Clean Architecture layers in seconds.      |
+| 🧬 | [`go‑gen`](https://github.com/malamsyah/go-gen)     | CLI code‑gen that scaffolds Clean Architecture layers in seconds.      |
 
 ---
 
