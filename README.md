@@ -27,7 +27,6 @@ Software engineer with 9+ years building consumer-scale platforms across fintech
 
 *Key contributor scaling the platform from single-market to **dozens of countries globally** — multi-currency, multi-language, and multi-payment-gateway operations.*
 
-- **AI tooling (2026):** Building a Slack-based AI support agent on **Claude Agent SDK**, AWS Lambda (container runtime, async acknowledgment pattern via two functions), and PostgreSQL with read-only access; corpus markdown with YAML frontmatter for metadata-driven retrieval; CloudWatch-based log investigation pipeline.
 - Prototyped a bulk-upload validation engine — duplicate detection, regex-based validation, country/currency rule matching — turning a ticket-analysis task into a working MVP.
 - Built new authentication flow with Auth0 integration.
 - Built currency layer calculation across multiple countries and payment gateways.
