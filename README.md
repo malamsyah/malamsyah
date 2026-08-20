@@ -1,12 +1,12 @@
 # Mochammad Alamsyah
  
-Tokyo, Japan · [hi@malamsyah.com](mailto:hi@malamsyah.com) · [github.com/malamsyah](https://github.com/malamsyah) · [malamsyah.com](https://malamsyah.com)
+Tokyo, Japan · relocating to Indonesia, Oct 2026 · [hi@malamsyah.com](mailto:hi@malamsyah.com) · [github.com/malamsyah](https://github.com/malamsyah) · [malamsyah.com](https://malamsyah.com)
  
 ---
  
 ## Summary
  
-Software engineer with 9+ years building consumer-scale platforms across fintech, ride-hailing, and AI. Track record of full-stack delivery and leading distributed teams across Japan, India, Indonesia, and US time zones. Currently shipping production AI systems on Claude Agent SDK and AWS, with a focus on AI-native platform engineering.
+Software engineer with nine years building consumer-scale platforms across fintech, ride-hailing, and AI. Track record of full-stack delivery and leading distributed teams across Japan, India, Indonesia, and US time zones. Currently shipping production AI systems on Claude Agent SDK and AWS, with a focus on AI-native platform engineering.
  
 ---
  
@@ -21,7 +21,7 @@ Software engineer with 9+ years building consumer-scale platforms across fintech
  
 ## Experience
  
-### Senior Software Engineer (Consultant) — Global Healthcare Platform
+### Senior Software Engineer (Independent Contractor) — Mural Health
 *Remote · Feb 2023 – Present*
  
 *Key contributor scaling the platform from single-market to **dozens of countries globally** — multi-currency, multi-language, and multi-payment-gateway operations.*
@@ -32,7 +32,7 @@ Software engineer with 9+ years building consumer-scale platforms across fintech
 - Built ride-service and travel management integrations with third-party providers.
 - Created a multilingual notification engine.
 - **Stack:** Go, GraphQL, PostgreSQL, WebSocket, Claude Agent SDK, AWS Lambda, SAM.
-### Tech Lead, Platform Applications — Japanese Fintech SaaS Platform
+### Tech Lead, Platform Application Division — Money Forward
 *Tokyo, Japan · Dec 2025 – Aug 2026*
  
 - Owned the company's **shared email-delivery platform** — the path used by both consumer and B2B products, sending ~300 million messages per month.
@@ -40,7 +40,7 @@ Software engineer with 9+ years building consumer-scale platforms across fintech
 - Defined the division's **service reliability maturity standard** and the assessment methodology behind it, then took two production services through it — authoring the documentation and aligning engineering, SRE, and the assessing team.
 - Led the migration of a production orchestration service from **ECS to Kubernetes**: architectural analysis, orchestrator-layer gap identification, and bootstrapping. Authored a circuit-breaking ADR and tightened incident protocols to cut MTTR.
 - **Stack:** Go, Kubernetes, AWS (ECS, Step Functions), Prometheus.
-### Lead Software Engineer · Principal (AI & Data Platform) — Financial Services Conglomerate
+### Lead Software Engineer · Principal (AI & Data Platform) — S-Quantum Engine (Sinarmas)
 *Jakarta, Indonesia · Mar 2023 – Mar 2025*
  
 - Architected and led a team of engineers to build a **loan application system** for the used-vehicle market; provisioned end-to-end GCP infrastructure (development → production) with high availability and scalability.
@@ -48,7 +48,13 @@ Software engineer with 9+ years building consumer-scale platforms across fintech
 - Built an **AI assistant for C-level executives** using an LLM with function calling against a data warehouse, enabling natural-language queries over business metrics — e.g., monthly revenue, biggest cost drivers, period-over-period trends.
 - Built data pipelines and analytics dashboards to support multiple lines of business.
 - **Stack:** Go, React, PostgreSQL, BigQuery, AWS Redshift, GKE, GCP, AWS, LLM function calling.
-### Senior Software Engineer — Ride-Hailing Super App
+### Co-Founder — AccessTime
+*Jakarta / Remote · May 2025 – Dec 2025*
+
+- Set technical direction for WCAG-aligned accessibility tooling, built around the EU Accessibility Act thesis.
+- Wound down after enforcement proved weaker than modelled.
+
+### Senior Software Engineer — Gojek
 *Bangalore & Jakarta · Jun 2018 – Mar 2023*
  
 *Joined as an engineering trainee in Jakarta; converted to full-time in Bangalore, then promoted to Senior Software Engineer.*
@@ -68,7 +74,7 @@ Software engineer with 9+ years building consumer-scale platforms across fintech
 **Engineering Bootcamp**
  
 - Mentored junior engineers on Clean Code, TDD, system design, and structured technical argumentation.
-### Co-Founder, CTO — E-Commerce Startup
+### Co-Founder & CTO — Teco Technology
 *Jakarta · Sep 2017 – May 2018*
  
 - Built the MVP for a bidding-based e-commerce platform (web + iOS).
